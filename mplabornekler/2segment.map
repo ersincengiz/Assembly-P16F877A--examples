@@ -1,0 +1,54 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Thu Jan 10 17:07:53 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x0000c8
+  .config_2007_2SEGMENT.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000067      
+                            0x002007    0x002007      
+            102 out of 8454 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    BASLA   0x000013    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                      DON   0x000065    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                    DONGU   0x000036    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                 GECIKMEE   0x000063    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                 KESMECIK   0x000012    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                   SAGART   0x000043    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                     SAGG   0x000038    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                  SIFIRLA   0x000054    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                    TABLO   0x000057    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                      YAZ   0x000045    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 KESMECIK   0x000012    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                    BASLA   0x000013    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                    DONGU   0x000036    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                     SAGG   0x000038    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                   SAGART   0x000043    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                      YAZ   0x000045    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                  SIFIRLA   0x000054    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                    TABLO   0x000057    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                 GECIKMEE   0x000063    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+                      DON   0x000065    program     static C:\Users\asus\Documents\mplabornekler\2segment.asm
+
+

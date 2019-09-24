@@ -1,0 +1,44 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Tue Jan 08 01:21:15 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00004e
+ .config_2007_DOTMATRIS.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000026      
+                            0x002007    0x002007      
+            40 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    BASLA   0x000000    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                      DON   0x00001d    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                  GECIKME   0x00001b    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                    TABLO   0x000020    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                      YAP   0x00000a    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                     YAP1   0x000013    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    BASLA   0x000000    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                      YAP   0x00000a    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                     YAP1   0x000013    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                  GECIKME   0x00001b    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                      DON   0x00001d    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+                    TABLO   0x000020    program     static C:\Users\asus\Documents\mplabornekler\dotmatris.asm
+
+

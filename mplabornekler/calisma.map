@@ -1,0 +1,52 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Mon Dec 24 22:55:20 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000074
+   .config_2007_CALISMA.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x00003d      
+                            0x002007    0x002007      
+            60 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    BASLA   0x000015    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                    DONGU   0x00002d    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                 KESMEBIT   0x000014    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                      SAG   0x000036    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                      SOL   0x00002e    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                     YAP1   0x000031    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                     YAP2   0x000033    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                     YAP3   0x000039    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                     YAP4   0x00003c    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 KESMEBIT   0x000014    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                    BASLA   0x000015    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                    DONGU   0x00002d    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                      SOL   0x00002e    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                     YAP1   0x000031    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                     YAP2   0x000033    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                      SAG   0x000036    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                     YAP3   0x000039    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+                     YAP4   0x00003c    program     static C:\Users\asus\Documents\mplabornekler\calisma.asm
+
+

@@ -1,0 +1,38 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Tue Oct 16 22:27:02 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000032
+.config_2007_BUTONABASINCATERSLE.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000018      
+                            0x002007    0x002007      
+            26 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    BASLA   0x00000d    program     static C:\Users\asus\Documents\mplabornekler\butonabasincatersle.asm
+                   DUZELT   0x000015    program     static C:\Users\asus\Documents\mplabornekler\butonabasincatersle.asm
+                   TERSLE   0x000011    program     static C:\Users\asus\Documents\mplabornekler\butonabasincatersle.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    BASLA   0x00000d    program     static C:\Users\asus\Documents\mplabornekler\butonabasincatersle.asm
+                   TERSLE   0x000011    program     static C:\Users\asus\Documents\mplabornekler\butonabasincatersle.asm
+                   DUZELT   0x000015    program     static C:\Users\asus\Documents\mplabornekler\butonabasincatersle.asm
+
+

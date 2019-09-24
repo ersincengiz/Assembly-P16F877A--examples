@@ -1,0 +1,50 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Mon Oct 22 18:22:18 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000060
+    .config_2007_CARPMA.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00002f      
+                            0x002007    0x002007      
+            49 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   ARTTIR   0x00001f    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                    BASLA   0x000010    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                    BITIR   0x000022    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                    DONGU   0x000016    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                   DONGU1   0x000019    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                      SAG   0x00002c    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                      SOL   0x000028    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                    TOPLA   0x00001c    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                      YAK   0x000025    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    BASLA   0x000010    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                    DONGU   0x000016    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                   DONGU1   0x000019    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                    TOPLA   0x00001c    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                   ARTTIR   0x00001f    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                    BITIR   0x000022    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                      YAK   0x000025    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                      SOL   0x000028    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+                      SAG   0x00002c    program     static C:\Users\asus\Documents\mplabornekler\carpma.asm
+
+
